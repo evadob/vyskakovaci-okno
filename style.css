@@ -28,3 +28,19 @@ button {
 }
 
 /* sem přijdou tvoje styly */
+.modal {
+  position: relative;
+  left: 200px;
+}
+
+.ok {
+  position: absolute;
+  left: 300px;
+  bottom: 30px;
+}
+
+.exit {
+  position: absolute;
+  right: 25px;
+  top: 20px;
+}
